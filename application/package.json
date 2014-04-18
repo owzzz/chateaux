@@ -1,0 +1,25 @@
+{
+  "name": "Chateaux",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/owzzz/chateaux"
+  },
+  "author": "Owain Llewellyn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/owzzz/chateaux/issues"
+  },
+  "homepage": "https://github.com/owzzz/chateaux",
+  "devDependencies": {
+    "mongoose": "^3.8.8",
+    "express": "^4.0.0",
+    "body-parser": "^1.0.2",
+    "nodemon": "^1.0.17"
+  }
+}

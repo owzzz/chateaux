@@ -1,0 +1,32 @@
+{
+	"venues": [{
+		"name": "Chateaux Margeux",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+		"contact": {
+			"phone": "01639 700976",
+			"email": "chateaux.margeaux@bordeaux.com"
+		},
+		"categories": {
+			"grapeVariety": ["Merlot", "Cabernet Sauvignon"],
+			"classification": "Grand Cru Classe"
+		},
+		"location": {
+			"address": "874 Avenue of the Americas",
+			"crossStreet" : "at W 31st St.",
+			"lat" : 40.747871081163495,
+			"lng" : -73.98922119845638,
+			"postalCode" : "10001",
+			"cc" : "US",
+			"city" : "New York",
+			"state" : "NY",
+			"country" : "United States"
+		},
+		"url": "http://www.chateau-margaux.com/en/",
+		"timeFrames": [{
+			"days": "Monday",
+			"open": [{
+				"renderedTime": "7:00AM – 2:00PM"
+			}]
+		}]
+	}]
+}
