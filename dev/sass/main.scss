@@ -1,0 +1,16 @@
+@import "partials/all";
+@import "modules/all";
+@import "vendor/all";
+
+section {
+	margin-bottom: $verticalSpacingMed;
+}
+
+section:last-child {
+	margin-bottom: 0;
+}
+
+.wrapper {
+	@include outer-container;
+	width: 100%;
+}
